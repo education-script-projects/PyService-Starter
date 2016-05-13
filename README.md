@@ -2,7 +2,7 @@
 
 Linux işletim sistemleri için geliştirilmiş ve python dili ile yazılmışdır.  Linux'da kurulu olan servislerin başlatma, yeniden başlatma ve durdurma özelliğine sahib bir kontrol aracıdır.
 
-Kontrol ettiği servisler ;
+# Kontrol Ettiği Servisler
 
 (1) Apache Server Service
 
